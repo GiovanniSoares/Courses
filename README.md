@@ -1,2 +1,2 @@
 # Courses
-Courses and Eepository
+Courses and Repository
